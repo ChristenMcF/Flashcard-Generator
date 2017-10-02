@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristenMcF/Flashcard-Generator.git"
+  },
+  "author": "Christen McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristenMcF/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/ChristenMcF/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  }
+}
